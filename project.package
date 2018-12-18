@@ -1,0 +1,2 @@
+REFS = project
+DATAS = res/ : res/

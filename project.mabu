@@ -1,0 +1,7 @@
+KIND = program
+OUTNAME = PrismSample
+SRCS = \
+    src\main.cpp \
+    src\app.cpp
+
+USES = lumin_runtime
